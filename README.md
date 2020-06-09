@@ -50,4 +50,3 @@ Reporting is done using packages -
 - jUnit xml reporting - [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters)
 
 Use generated XML with your continious integration system, so you won't need to generate any HTML reports from tests. By default output directory with xml results is `test_results/`
-js_xotabu4_protractor
